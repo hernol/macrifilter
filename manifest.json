@@ -20,6 +20,7 @@
       ],
       "exclude_globs": [
         "*://*trumpfilter.com*", 
+        "*://*hernol.com.ar*", 
         "*://*github.com*"
       ],
       "js": ["js/jquery-2.1.4.min.js", "js/filter.js"],
